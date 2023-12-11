@@ -32,5 +32,8 @@
     .icon{
         @apply text-2xl cursor-pointer
     }
+    .srch-icon{
+        color: white;
+    }
     
 }
